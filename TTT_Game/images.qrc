@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>circle.png</file>
+        <file>x.png</file>
+        <file>empty.png</file>
+        <file>tictactoe.png</file>
+    </qresource>
+</RCC>
